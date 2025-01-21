@@ -2,8 +2,8 @@
 # Site
 
 title: Chipmunk Site
-url: "https://esrlabs.github.io/chipmunk-docs"
-baseurl: https://esrlabs.github.io/chipmunk-docs
+url: "https://esrlabs.github.io/chipmunk-docs-testing"
+baseurl: https://esrlabs.github.io/chipmunk-docs-testing
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:

@@ -4,7 +4,7 @@ require 'rake/clean'
 
 GITHUB_TOKEN = ENV['GITHUB_TOKEN']
 GITHUB_ACTOR = 'marcmo'
-GITHUB_REPOSITORY = 'esrlabs/chipmunk-docs'
+GITHUB_REPOSITORY = 'esrlabs/chipmunk-docs-testing'
 INPUT_GIT_COMMIT_MESSAGE = 'generated site content'
 SITE_DIR = 'jekyll/_site'
 SITE = "#{SITE_DIR}/index.html"
