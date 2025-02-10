@@ -1,1 +1,128 @@
-{"Observe - grab content (text)":[{"release":"3.16.0","actual_value":155.38022383333333}],"Observe - grab content (dlt)":[{"release":"3.16.0","actual_value":18784.084616833334}],"Observe - grab content (pcapng)":[{"release":"3.16.0","actual_value":5.152720666666666}],"Stream - startup measurement":[{"release":"3.16.0","actual_value":61.7156225}],"Stream - shutdown measurement":[{"release":"3.16.0","actual_value":6.4107571666666665}],"Stream - Open 50 sessions":[{"release":"3.16.0","actual_value":3194.334942}],"Indexes - Switch to breadcrumb mode":[{"release":"3.16.0","actual_value":411.25616383333335}],"Assign & single search":[{"release":"3.16.0","actual_value":457.40585333333337}],"Assign & multiple search":[{"release":"3.16.0","actual_value":440.266116}]}
+{
+  "Observe - grab content (text)": [
+    {
+      "release": "3.15.2",
+      "actual_value": 199.2994215
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 192.83010033333335
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 206.25849099999996
+    }
+  ],
+  "Observe - grab content (dlt)": [
+    {
+      "release": "3.15.2",
+      "actual_value": 16902.995704999998
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 16351.032618166668
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 17629.18553
+    }
+  ],
+  "Observe - grab content (pcapng)": [
+    {
+      "release": "3.15.2",
+      "actual_value": 2.3157818333333333
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 2.2194724999999997
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 2.2854578333333335
+    }
+  ],
+  "Stream - startup measurement": [
+    {
+      "release": "3.15.2",
+      "actual_value": 9.8993805
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 9.760782
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 10.109406666666667
+    }
+  ],
+  "Stream - shutdown measurement": [
+    {
+      "release": "3.15.2",
+      "actual_value": 2.4709913333333335
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 2.4505743333333334
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 2.968186166666667
+    }
+  ],
+  "Stream - Open 50 sessions": [
+    {
+      "release": "3.15.2",
+      "actual_value": 1387.9496496666668
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 1430.8160813333334
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 1273.2506226666667
+    }
+  ],
+  "Indexes - Switch to breadcrumb mode": [
+    {
+      "release": "3.15.2",
+      "actual_value": 387.94021033333337
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 393.72361316666667
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 415.6562111666667
+    }
+  ],
+  "Assign & single search": [
+    {
+      "release": "3.15.2",
+      "actual_value": 406.2235401666667
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 419.5190978333333
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 478.10975716666667
+    }
+  ],
+  "Assign & multiple search": [
+    {
+      "release": "3.15.2",
+      "actual_value": 407.0597276666667
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 423.6249393333333
+    },
+    {
+      "release": "3.16.0",
+      "actual_value": 425.77616400000005
+    }
+  ]
+}
