@@ -1,56 +1,128 @@
 {
   "Observe - grab content (text)": [
     {
+      "release": "3.15.2",
+      "actual_value": 209.428452
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 191.23405949999997
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 168.25004099999998
+      "actual_value": 220.48060633333333
     }
   ],
   "Observe - grab content (dlt)": [
     {
+      "release": "3.15.2",
+      "actual_value": 19429.032569833333
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 19942.729379666667
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 16983.253956833334
+      "actual_value": 19859.881495833335
     }
   ],
   "Observe - grab content (pcapng)": [
     {
+      "release": "3.15.2",
+      "actual_value": 3.1655476666666664
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 4.969808
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 2.472349
+      "actual_value": 3.675227
     }
   ],
   "Stream - startup measurement": [
     {
+      "release": "3.15.2",
+      "actual_value": 14.213485499999999
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 14.298886166666668
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 9.453531499999999
+      "actual_value": 16.389959333333334
     }
   ],
   "Stream - shutdown measurement": [
     {
+      "release": "3.15.2",
+      "actual_value": 4.2929976666666665
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 6.2865858333333335
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 2.4090735
+      "actual_value": 3.479035666666667
     }
   ],
   "Stream - Open 50 sessions": [
     {
+      "release": "3.15.2",
+      "actual_value": 1898.6884098333333
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 1952.1722873333335
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 1359.7087436666668
+      "actual_value": 2019.0326251666665
     }
   ],
   "Indexes - Switch to breadcrumb mode": [
     {
+      "release": "3.15.2",
+      "actual_value": 455.1894291666667
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 438.8409916666667
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 327.9268031666666
+      "actual_value": 454.18501833333335
     }
   ],
   "Assign & single search": [
     {
+      "release": "3.15.2",
+      "actual_value": 525.5018931666667
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 492.427535
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 355.76065066666666
+      "actual_value": 545.6824465000001
     }
   ],
   "Assign & multiple search": [
     {
+      "release": "3.15.2",
+      "actual_value": 503.97088533333334
+    },
+    {
+      "release": "3.15.3",
+      "actual_value": 451.9214728333333
+    },
+    {
       "release": "3.16.0",
-      "actual_value": 350.362369
+      "actual_value": 483.30963933333334
     }
   ]
 }
