@@ -34,11 +34,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 172.2241528333333
+      "actual_value": 176.52767733333334
     },
     {
       "release": "3.16.0",
-      "actual_value": 168.9396595
+      "actual_value": 182.826719
     }
   ],
   "Observe - grab content (dlt)": [
@@ -76,11 +76,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 19288.485147166666
+      "actual_value": 19479.23327266667
     },
     {
       "release": "3.16.0",
-      "actual_value": 19831.1930275
+      "actual_value": 38308.949687333334
     }
   ],
   "Observe - grab content (pcapng)": [
@@ -118,11 +118,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 3.282904333333333
+      "actual_value": 2.5131593333333333
     },
     {
       "release": "3.16.0",
-      "actual_value": 3.3992025
+      "actual_value": 8.1373825
     }
   ],
   "Stream - startup measurement": [
@@ -160,11 +160,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 15.767335833333334
+      "actual_value": 11.247228833333333
     },
     {
       "release": "3.16.0",
-      "actual_value": 15.06792
+      "actual_value": 12.872919333333334
     }
   ],
   "Stream - shutdown measurement": [
@@ -202,11 +202,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 5.535519166666667
+      "actual_value": 3.212431666666667
     },
     {
       "release": "3.16.0",
-      "actual_value": 3.8386385
+      "actual_value": 4.738819333333333
     }
   ],
   "Stream - Open 50 sessions": [
@@ -244,11 +244,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 1956.4452471666666
+      "actual_value": 1533.1923033333333
     },
     {
       "release": "3.16.0",
-      "actual_value": 2029.3519141666666
+      "actual_value": 1695.9124481666668
     }
   ],
   "Indexes - Switch to breadcrumb mode": [
@@ -286,11 +286,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 372.9280436666666
+      "actual_value": 395.88867849999997
     },
     {
       "release": "3.16.0",
-      "actual_value": 406.42905816666666
+      "actual_value": 395.59402083333333
     }
   ],
   "Assign & single search": [
@@ -328,11 +328,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 476.33570933333334
+      "actual_value": 419.90795916666667
     },
     {
       "release": "3.16.0",
-      "actual_value": 424.9344813333334
+      "actual_value": 416.9004385
     }
   ],
   "Assign & multiple search": [
@@ -370,11 +370,11 @@
     },
     {
       "release": "3.15.3",
-      "actual_value": 405.649031
+      "actual_value": 391.3684278333333
     },
     {
       "release": "3.16.0",
-      "actual_value": 370.8713448333333
+      "actual_value": 396.90001966666665
     }
   ]
 }
