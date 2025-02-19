@@ -38,7 +38,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 177.65254883333333
+      "actual_value": 162.45572866666666
     }
   ],
   "Observe - grab content (dlt)": [
@@ -80,7 +80,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 21993.80109816667
+      "actual_value": 21147.619101833334
     }
   ],
   "Observe - grab content (pcapng)": [
@@ -122,7 +122,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 3.850471
+      "actual_value": 4.5683925
     }
   ],
   "Stream - startup measurement": [
@@ -164,7 +164,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 27.726305166666666
+      "actual_value": 28.202631999999998
     }
   ],
   "Stream - shutdown measurement": [
@@ -206,7 +206,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 14.3805
+      "actual_value": 9.6238285
     }
   ],
   "Stream - Open 50 sessions": [
@@ -248,7 +248,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 2957.524886333333
+      "actual_value": 2240.4943373333335
     }
   ],
   "Indexes - Switch to breadcrumb mode": [
@@ -290,7 +290,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 545.438067
+      "actual_value": 419.23450933333334
     }
   ],
   "Assign & single search": [
@@ -332,7 +332,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 498.76841766666666
+      "actual_value": 471.5792313333333
     }
   ],
   "Assign & multiple search": [
@@ -374,7 +374,7 @@
     },
     {
       "release": "3.16.0",
-      "actual_value": 486.4966835
+      "actual_value": 424.029707
     }
   ]
 }
